@@ -3,7 +3,7 @@ let quotes = [
     "I talk a lot, so I've learned to tune myself out.", 
     "Would I rather be feared or loved?. Easy. Both. I want people to be afraid of how much they love me.", 
     "I'm not superstitious, but I am a little stitious.", 
-    "You miss 100% of the shots you don't take - Wayne Gretzky - Michael Scott."
+    "You miss 100% of the shots you don't take. - Wayne Gretzky - Michael Scott."
 ];
 
 module.exports = {
